@@ -6,3 +6,5 @@ Commands:
  - /tag @s add timer     -   Start the Timer
  - /tag @s remove timer  -   Stop the Timer
  - /tag @s add reset     -   Reset the Timer
+
+The datapak send a Message when its activated.
